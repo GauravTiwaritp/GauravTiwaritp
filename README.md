@@ -1,4 +1,4 @@
-# GauravTiwaritp
+
 <h1 align="center">Hi 👋, I'm Gaurav Tiwari</h1>
 <h3 align="center">A passionate Backend developer/Software Enginner from India</h3>
 <img  
